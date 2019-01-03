@@ -1,7 +1,7 @@
 # arduino
 Drums with multiplexor and piezzos
 Using hairless, responsiveness is bugged, i have to fix it.
-https://www.nerds.de/en/loopbe1.html
+
 
 Ingredients
 --------------
@@ -11,3 +11,4 @@ Arduino Uno
 5 1mhom resistors
 a lot of wires
 http://projectgus.github.io/hairless-midiserial/
+https://www.nerds.de/en/loopbe1.html
